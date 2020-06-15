@@ -2,7 +2,7 @@
 画像とプロフィールを入力するだけで、Zoomの背景を作れるジェネレータ
 
 ## 🖥デプロイ先
-hoge
+https://asukaokochi.github.io/zoom-bg-namecard/
 
 ## 🙋‍誰が作ったの
 企画とコーディング： [kazz](https://github.com/kazztech)
